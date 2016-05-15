@@ -1,0 +1,3 @@
+git clone https://chromium.googlesource.com/chromium/src/tools/android
+git --git-dir android/.git log -p --after="2016-01-01" --before="2016-05-01" >raw.txt
+git --git-dir android/.git log --pretty=format:"%an | %cd | %s" --name-only --after="2016-01-01" --before="2016-05-01" >log.txt
