@@ -1,0 +1,7 @@
+C:\Users\Mert Cingoz\Documents\GitHub\Computer-Project-3\Source Code\MiningRepositories\bin\Debug\MiningRepositories.exe
+C:\Users\Mert Cingoz\Documents\GitHub\Computer-Project-3\Source Code\MiningRepositories\bin\Debug\MiningRepositories.pdb
+C:\Users\Mert Cingoz\Documents\GitHub\Computer-Project-3\Source Code\MiningRepositories\obj\x86\Debug\Odev3.Main_Form.resources
+C:\Users\Mert Cingoz\Documents\GitHub\Computer-Project-3\Source Code\MiningRepositories\obj\x86\Debug\MiningRepositories.Properties.Resources.resources
+C:\Users\Mert Cingoz\Documents\GitHub\Computer-Project-3\Source Code\MiningRepositories\obj\x86\Debug\MiningRepositories.csproj.GenerateResource.Cache
+C:\Users\Mert Cingoz\Documents\GitHub\Computer-Project-3\Source Code\MiningRepositories\obj\x86\Debug\MiningRepositories.exe
+C:\Users\Mert Cingoz\Documents\GitHub\Computer-Project-3\Source Code\MiningRepositories\obj\x86\Debug\MiningRepositories.pdb
