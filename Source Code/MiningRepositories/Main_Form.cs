@@ -240,9 +240,8 @@ namespace Odev3
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("firefox.exe", Directory.GetCurrentDirectory() + "\\" + linkLabel1.Text);
+            var uri = new System.Uri(Directory.GetCurrentDirectory() + "\\" + linkLabel1.Text);
+            Process.Start("firefox.exe", uri.AbsoluteUri);
         }
-
-
     }
 }
